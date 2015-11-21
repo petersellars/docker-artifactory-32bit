@@ -1,4 +1,4 @@
-FROM cato1971/tomcat-32bit:7-jre7
+FROM cato1971/docker-tomcat-32bit:7-jre7
 MAINTAINER Peter Sellars <psellars@gmail.com>
 
 # To update, check https://bintray.com/jfrog/artifactory/artifactory/view
